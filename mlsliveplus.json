@@ -16,12 +16,12 @@
      "free":"yes",
   "live": [
   {
-  "link":"Ajax",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1662590483-0-0-e64ef3aa9b95bc2a3db5ef9292d8738d"
+  "link":"720",
+    "livelink":"https://sun.meta-scores.com/5648d335cc/5648d335cc@720p.m3u8"
 },
      {
-  "link":"Frankfurt",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1662590543-0-0-c4c6f85dcef495a6f7f16ee153cf8213"
+  "link":"China HD",
+    "livelink":"https://bf.178zb.cn/live/5001018.m3u8?txSecret=25fa1e8d166e6c2d3cf48eb052115ef7&txTime=6318eae2"
 }
 ]
   
