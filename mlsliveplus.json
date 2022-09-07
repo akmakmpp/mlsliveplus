@@ -13,11 +13,15 @@
   
   
   
-     "free":"no",
+     "free":"yes",
   "live": [
   {
-  "link":"VIETNUM (SD)",
-    "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+  "link":"Ajax",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1662590483-0-0-e64ef3aa9b95bc2a3db5ef9292d8738d"
+},
+     {
+  "link":"Frankfurt",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1662590543-0-0-c4c6f85dcef495a6f7f16ee153cf8213"
 }
 ]
   
