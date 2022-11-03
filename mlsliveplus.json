@@ -19,11 +19,7 @@
   "live": [
     {
   "link":"SD",
-    "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/index.m3u8"
-},
-  {
-  "link":"720",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1665340286-0-0-7e20c04f180c1b09256b56f9f7f0f41f"
+    "livelink":"http://143.198.195.98:9000/1415/1415/5.m3u8"
 }
 ]
   
