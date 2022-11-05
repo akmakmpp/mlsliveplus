@@ -18,7 +18,11 @@
      "freee":"yes",
   "live": [
     {
-  "link":"SD",
+  "link":"Bein Eng 1",
+    "livelink":"http://143.198.195.98:9000/1415/1415/4.m3u8"
+},
+    {
+  "link":"Bein Eng 2",
     "livelink":"http://143.198.195.98:9000/1415/1415/5.m3u8"
 }
 ]
