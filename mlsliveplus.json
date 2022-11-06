@@ -1,7 +1,7 @@
 {
-  "date":"Nov 6",
-    "matchimg":"https://i2-prod.football.london/incoming/article17550847.ece/ALTERNATES/s1200/1_spursblog.jpg",
-    "time":"11:00 PM",
+  "date":"Nov 10",
+    "matchimg":"https://imgs.ticombo.com/tc-images-main/origin/events/sports/liverpool-fc-vs-derby-county-fc-carabao-cup/Liverpool-DerbyB.png",
+    "time":"2:30 AM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -20,22 +20,6 @@
     {
   "link":"China SD",
     "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1667773220-0-0-b4ac1ee709ad9ebeedd930f909521bbd"
-},
-    {
-  "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1667772380-0-0-c57a05ec962fe7c0a668a043d037b584"
-},
-     {
-  "link":"HD",
-    "livelink":"https://moon.meta-scores.com/046087804a/046087804a@720p.m3u8"
-},
-    {
-  "link":"ENG SD",
-    "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/749508"
-},
-    {
-  "link":"Bein Eng 2",
-    "livelink":"http://143.198.195.98:9000/1415/1415/4.m3u8"
 }
 ]
   
