@@ -18,8 +18,16 @@
      "freee":"yes",
   "live": [
     {
-  "link":"16 UCL DRAW",
+  "link":"16 UCL DRAW(SD)",
     "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753796"
+},
+    {
+  "link":"16 UCL DRAW(HD)",
+    "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753795"
+},
+    {
+  "link":"16 UCL DRAW(FHD)",
+    "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753794"
 }
 ]
   
