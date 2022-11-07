@@ -17,6 +17,10 @@
   
      "freee":"yes",
   "live": [
+     {
+  "link":"16 UCL DRAW(AUTO)",
+    "livelink":"https://live-uefa-com.akamaized.net/hls/live/2036934/071122_UCLR16/master_2.m3u8"
+},
     {
   "link":"16 UCL DRAW(SD)",
     "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753796"
