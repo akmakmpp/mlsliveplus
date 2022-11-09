@@ -18,20 +18,16 @@
      "freee":"yes",
   "live": [
      {
-  "link":"16 UCL (AUTO)",
-    "livelink":"https://live-uefa-com.akamaized.net/hls/live/2036934/071122_UCLR16/master_2.m3u8"
+  "link":"China SD",
+    "livelink":"https://yypull.gdsth.com/live/stream-418311_ld.m3u8?auth_key=1668044720-0-0-101579c2a14e741c8435621af9e4dfce"
 },
     {
-  "link":"16 UCL DRAW(SD)",
-    "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753796"
+  "link":"China HD",
+    "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1668044720-0-0-6dc25802b7c084f841f6ba4c86dbc772"
 },
     {
-  "link":"16 UCL DRAW(HD)",
-    "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753795"
-},
-    {
-  "link":"16 UCL DRAW(FHD)",
-    "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753794"
+  "link":"HD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1667964543-0-0-3438760f7305ce2e41da2bc12503c04r"
 }
 ]
   
