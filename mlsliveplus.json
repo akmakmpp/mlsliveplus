@@ -17,9 +17,21 @@
   
      "freee":"yes",
   "live": [
+      {
+  "link":"China (SD)",
+    "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1668285501-0-0-52dcbb19598f7c59c12a685b613c5a93"
+},
+      {
+  "link":"China (HD)",
+    "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1668285501-0-0-ea7acb69988c27c384d8b712be0d2c20"
+},
      {
-  "link":"LIVE 3-2 DERBY",
-    "livelink":"https://myvva6.myvidnow.net/UpFiles/2022/11/9/42/239965/360p.m3u8"
+  "link":"Soco (SD)",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1668285390-0-0-30c236ea2023462371406176a9a9062f"
+},
+     {
+  "link":"Soco (HD)",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668285390-0-0-a920c5c3ebad3b9caa9cecd7720b7038"
 }
 ]
   
