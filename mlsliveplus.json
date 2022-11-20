@@ -1,6 +1,6 @@
 {
   "date":"Nov 20",
-    "matchimg":"https://www.insidesport.in/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-18-at-10.14.51-PM.jpeg?w=690",
+    "matchimg":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/11/20/16689510047277.jpg",
     "time":"10:30 PM",
   
   
@@ -19,19 +19,19 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-201986_ld.m3u8?auth_key=1668974011-0-0-8f9c70b449c809e4af4eca2795aaf273"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1668980730-0-0-905352c0caf43fb3556818e4b5a4f051"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1668974011-0-0-12ff9acbf4a05db20ee7f97a46b7dad2"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1668980730-0-0-c645fb448884c916b24944ca10e35370"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668975862-0-0-138bdf3924a33da1dbd609a9063bd109"
+    "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1668980781-0-0-669014e8b9ff77c1a7da38dff301b261"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1668975862-0-0-ba9eb85b67b0a2bf0b3534afddd5fa9c"
+    "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1668980781-0-0-df0f8876ba61568dd091e9381758b046"
 }
 ]
   
