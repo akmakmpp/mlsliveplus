@@ -1,7 +1,7 @@
 {
   "date":"Nov 21",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-eng-vs-irn.jpg",
-    "time":"7:30 PM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-neth-vs-seng.jpg",
+    "time":"10:30 PM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,19 +19,19 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-201986_ld.m3u8?auth_key=1669055011-0-0-af0f423fa0b77782e625795f40ed2907"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-190631_ld.m3u8?auth_key=1669066531-0-0-9723a1732c0e57baea28ddd837a689ac"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1669055011-0-0-2dfc18d30cce1f9fc68506b9124f3240"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1669066531-0-0-fadf25f4c6208d273a52970553ef297e"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1669055422-0-0-c749da49c2234eaee0a6b4e76fbd79e2"
+    "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669066642-0-0-fff110762f6ebe272673d5fdec364e57"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669055422-0-0-7978ff8146451c0dc5f358ce07aba089"
+    "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669066642-0-0-697137a4de7bce2ceac622c84dc7842a"
 }
 ]
   
