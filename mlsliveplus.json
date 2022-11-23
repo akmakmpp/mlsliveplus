@@ -19,19 +19,19 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669216291-0-0-dede87707e50dc5afbff7f1fb56263df"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669226431-0-0-c645e3a1d970f65d3903e7dbeb6e7435"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669216291-0-0-fa297c40783e2a25fd8f077d7b477a2e"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669226431-0-0-54e96cf00d5567f740448b853ca34604"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-232996_ld.m3u8?auth_key=1669215922-0-0-69c1b5c5cad11feb334ceec953533954"
+    "livelink":"https://yypull.gdsth.com/live/stream-308116_ld.m3u8?auth_key=1669226542-0-0-f8efc480899d0ed2fafb72b3881f6a48"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1669215922-0-0-5e72131b2da5cdf07f661f48cf659776"
+    "livelink":"https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669226542-0-0-43993f251d2e4f92ea734e698faf9166"
 }
 ]
   
