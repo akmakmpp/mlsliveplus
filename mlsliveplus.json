@@ -1,7 +1,7 @@
 {
   "date":"Nov 24",
-    "matchimg":"https://sportstiger-images.s3.ap-south-1.amazonaws.com/media/uruguay-south-korea-odds-sportstiger-1669201578844.jpg",
-    "time":"7:30 PM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-Portugal-vs-ghana.jpg",
+    "time":"10:30 PM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,19 +19,19 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669313491-0-0-e6997fcebffff2e34e3f3fac45e63d96"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669324951-0-0-b6eea4b7c2a91c993acb78c59f665790"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669313491-0-0-5aa53739c9f6b9665dde4216e99cb9d7"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669324951-0-0-f95b3f500decb015f06c5ec8d32a79d1"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-423912_ld.m3u8?auth_key=1669313542-0-0-4e5dae9f4e2effca4f241c6573b84fb9"
+    "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1669325002-0-0-2a325a5611c3f731cfc1875da48b476c"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-423912.m3u8?auth_key=1669313542-0-0-54224603cfff3bc494161525299ca175"
+    "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1669325002-0-0-4e7bec92db0bc49cef37d4a947fba955"
 },
         {
   "link":"FHD",
