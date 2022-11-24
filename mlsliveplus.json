@@ -1,7 +1,7 @@
 {
-  "date":"Nov 24",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-Portugal-vs-ghana.jpg",
-    "time":"10:30 PM",
+  "date":"Nov 25",
+    "matchimg":"https://img.asmedia.epimg.net/resizer/vmQSDrhPeMYYfygW4ZaIHz1INek=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/AZA54Q2LYJCE7JSHZEXRJB5Y4Y.png",
+    "time":"1:30 AM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,11 +19,11 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669324951-0-0-b6eea4b7c2a91c993acb78c59f665790"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669336411-0-0-809f1d927272285909a36eba1d95dc55"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669324951-0-0-f95b3f500decb015f06c5ec8d32a79d1"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669336411-0-0-912164c85112d063e390fbe4074c5972"
 },
     {
   "link":"China SD",
@@ -31,11 +31,11 @@
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1669325002-0-0-4e7bec92db0bc49cef37d4a947fba955"
+    "livelink":"https://yypull.gdsth.com/live/stream-2445688.m3u8?auth_key=1669336522-0-0-1f6f5b95563122255fa49f980ed6870c"
 },
         {
   "link":"FHD",
-    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 }
 ]
   
