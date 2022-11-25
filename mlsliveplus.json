@@ -1,7 +1,7 @@
 {
   "date":"Nov 25",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-Wales-vs-Iran.jpg",
-    "time":"4:30 PM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-Qatar-vs-Senegal.jpg",
+    "time":"7:30 PM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,23 +19,23 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669390771-0-0-17b9d8dbc8afe7c6c27c68b14ad51cc1"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-147801_ld.m3u8?auth_key=1669400671-0-0-31d4bd67ef6eefe57612cc47334a4550"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669390771-0-0-d94ebf80c4f566cf9d16ff6bb9c35f6d"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1669400671-0-0-d9b82c74a1f8a3e897ed58984565f262"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-423912_ld.m3u8?auth_key=1669390762-0-0-9b3734779f72de75708a1ace1cc519dd"
+    "livelink":"https://yypull.gdsth.com/live/stream-535588_ld.m3u8?auth_key=1669400602-0-0-683c4c1934874c2aca159d9a974abd8a"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-423912.m3u8?auth_key=1669390762-0-0-f3293c8d1ebe638159f55c071ffb649e"
+    "livelink":"https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1669400602-0-0-02a0cd8a004017b231cacd8ef04c841f"
 },
         {
   "link":"FHD",
-    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
+    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 }
 ]
   
