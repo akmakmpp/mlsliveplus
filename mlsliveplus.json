@@ -1,7 +1,7 @@
 {
   "date":"Nov 26",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/Tunisia-vs-Australia-world-cup-preview-lead-pic.jpg",
-    "time":"4:30 PM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/Poland-vs-Saudi-Arabia-Preview.jpg",
+    "time":"7:30 PM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,23 +19,23 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669476451-0-0-ec0d197ca71271dcef3da0a641ba7570"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669486531-0-0-bd5df35a6113b9a13965266b4ea6ef82"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669476451-0-0-21ab06f17ed452086fadfdfa3ebf1059"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669486531-0-0-bf7e5b204f18bab476a37a9f5a00f950"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-535588_ld.m3u8?auth_key=1669476382-0-0-58e0c766707b5b03194ef4b22e946e2b"
+    "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669486702-0-0-822a91961b703f9f7735577eb022f3e7"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1669476382-0-0-27b25ba3afb27489e9d23a8eefdce76a"
+    "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669486702-0-0-e4a1c7762ed83162af6c2a5fe1f6a0b0"
 },
         {
   "link":"FHD",
-    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
+    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 }
 ]
   
