@@ -1,7 +1,7 @@
 {
-  "date":"Nov 26",
-    "matchimg":"https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-11/nba-canada--5087be8a-0470-40d9-8aa6-ce3db1ca1327.jpeg?itok=fIzMyXw8",
-    "time":"10:30 PM",
+  "date":"Nov 27",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/Argentina-vs-Mexico-Preview.jpg",
+    "time":"1:30 AM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,23 +19,23 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1669497691-0-0-2a0d01eaffcba6ed93016c29d5a2dc8d"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669507411-0-0-69f57eb17277a160e2aa2b1b34ead5f0"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669497691-0-0-32063a8b19b84ea70244ef196504ee7b"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669507411-0-0-832f5e0764672817186ba328482d8bcc"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-259579_ld.m3u8?auth_key=1669498522-0-0-b8246e2674fa28e4740b6532ab33ba8c"
+    "livelink":"https://yypull.gdsth.com/live/stream-232996_ld.m3u8?auth_key=1669507522-0-0-00a5cc96d485ce70c96f8e594f793ae2"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-259579.m3u8?auth_key=1669498522-0-0-588a0b608fc1d15d26b7d98039b098f9"
+    "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1669507522-0-0-025f6406a9314b82b38e615064ba0f1f"
 },
         {
   "link":"FHD",
-    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 }
 ]
   
