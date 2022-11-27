@@ -1,7 +1,7 @@
 {
   "date":"Nov 27",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/Belgium-vs-Morocco-Preview-scaled.jpg",
-    "time":"7:30 PM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/Croatia-vs-Canada-Preview.jpg",
+    "time":"10:30 PM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,19 +19,19 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669572952-0-0-fefd6c5b2bde93e14fd1f91d3dd56c6e"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1669584112-0-0-06989a2ae27bef0069c11c72fe50f943"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669572952-0-0-01536342cc5538d3965adc95e74f39e2"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669584112-0-0-9efc319485579a9afd42e07ecd1772bd"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-535588_ld.m3u8?auth_key=1669563262-0-0-1488fd132d591f74a3843106386d1696"
+    "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669584262-0-0-53545cb0ec48ff5398c82f0bc3f89276"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1669563262-0-0-821732f94edecbf9d5be762ca1013675"
+    "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669584262-0-0-08ec5eea7fd764e2086f32383962785b"
 },
         {
   "link":"FHD",
