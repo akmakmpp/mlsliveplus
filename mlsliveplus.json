@@ -1,7 +1,7 @@
 {
-  "date":"Nov 28",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-South-korea-vs-ghana.jpg",
-    "time":"7:30 PM",
+  "date":"Nov 29",
+    "matchimg":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltb1f6797c2f897185/6384b70041047811aeac0a60/winner_cristiano_ronaldo_portugal_vs_darwin_nunez_uruguay.jpg",
+    "time":"1:30 AM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,23 +19,23 @@
   "live": [
       {
   "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1669671469-0-0-2d09a3a17b6b349e0aa8f31bc683cfb8"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669680232-0-0-0cc2f72d6bd5fa2e76aa43e348cf9d05"
 },
      {
   "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669671469-0-0-298bfcce48d7ad70f0eec56f0dbae9e8"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669680232-0-0-61b84bb716b4b6ab171e00f1bfca3a44"
 },
     {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-259579_ld.m3u8?auth_key=1669671562-0-0-33da02fa18701bcc2e55b044f01d43e1"
+    "livelink":"https://yypull.gdsth.com/live/stream-306760_ld.m3u8?auth_key=1669680322-0-0-ec6209b1ddd1fc68a2f3ae1c13330c06"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-259579.m3u8?auth_key=1669671562-0-0-be7eef0d1ef6ddf66ba7e25a775873f0"
+    "livelink":"https://yypull.gdsth.com/live/stream-306760.m3u8?auth_key=1669680322-0-0-c436aefbe0c4bd6fafee8cd6bd180fb7"
 },
         {
   "link":"FHD",
-    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 }
 ]
   
