@@ -1,7 +1,7 @@
 {
   "date":"Nov 28",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-Cameroon-vs-serbia.jpg",
-    "time":"4:30 PM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-South-korea-vs-ghana.jpg",
+    "time":"7:30 PM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -35,7 +35,7 @@
 },
         {
   "link":"FHD",
-    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
+    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 }
 ]
   
