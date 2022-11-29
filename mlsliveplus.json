@@ -1,7 +1,7 @@
 {
-  "date":"Nov 29",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/QT-VS-NT-scaled.jpg",
-    "time":"9:30 PM",
+  "date":"Nov 30",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/world-cup-preview-lead-pic-Wales-vs-england.jpg",
+    "time":"1:30 AM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -18,29 +18,29 @@
      "freee":"yes",
   "live": [
       {
-  "link":"Senegal SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-190631_ld.m3u8?auth_key=1669754674-0-0-ad03f3af03df302da2353b22cef5b8cd"
+  "link":"USA SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-121272.m3u8?auth_key=1669766974-0-0-4f3afbaad5e3f007049ae098c02a05a6"
 },
      {
-  "link":"Senagal HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1669754674-0-0-8492d2f77a9454d6fbe44b818ac5e554"
+  "link":"USA HD 1",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-121272_ld.m3u8?auth_key=1669766974-0-0-6cb0b3d8b1c66210809b91543dc9b264"
 },
     {
   "link":"Nether SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669754794-0-0-3ed2ce2421a1f678d3f999dac363ebf9"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669766914-0-0-3d86140040b2291347bf9368a04221b7"
 },
      {
   "link":"Nether HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669754794-0-0-64ced606a8fe33eb3c40ad0a55e56085"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669766914-0-0-5cb05cada8a022341a88f60fa95663d9"
 },
         {
-  "link":"Netherlands FHD",
-    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+  "link":"England FHD",
+    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 },
     
         {
-  "link":"Senegal FHD",
-    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
+  "link":"USA FHD",
+    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 }
 ]
   
