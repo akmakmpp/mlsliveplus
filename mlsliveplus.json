@@ -1,7 +1,7 @@
 {
   "date":"Nov 29",
-    "matchimg":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltb1f6797c2f897185/6384b70041047811aeac0a60/winner_cristiano_ronaldo_portugal_vs_darwin_nunez_uruguay.jpg",
-    "time":"1:30 AM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/QT-VS-NT-scaled.jpg",
+    "time":"9:30 PM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -18,24 +18,29 @@
      "freee":"yes",
   "live": [
       {
-  "link":"SD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669680232-0-0-0cc2f72d6bd5fa2e76aa43e348cf9d05"
+  "link":"Senegal SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-190631_ld.m3u8?auth_key=1669754674-0-0-ad03f3af03df302da2353b22cef5b8cd"
 },
      {
-  "link":"HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669680232-0-0-61b84bb716b4b6ab171e00f1bfca3a44"
+  "link":"Senagal HD 1",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1669754674-0-0-8492d2f77a9454d6fbe44b818ac5e554"
 },
     {
-  "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-306760_ld.m3u8?auth_key=1669680322-0-0-ec6209b1ddd1fc68a2f3ae1c13330c06"
+  "link":"Nether SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669754794-0-0-3ed2ce2421a1f678d3f999dac363ebf9"
 },
      {
-  "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-306760.m3u8?auth_key=1669680322-0-0-c436aefbe0c4bd6fafee8cd6bd180fb7"
+  "link":"Nether HD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669754794-0-0-64ced606a8fe33eb3c40ad0a55e56085"
 },
         {
-  "link":"FHD",
-    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+  "link":"Netherlands FHD",
+    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+},
+    
+        {
+  "link":"Senegal FHD",
+    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
 }
 ]
   
