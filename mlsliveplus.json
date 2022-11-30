@@ -18,28 +18,28 @@
      "freee":"yes",
   "live": [
       {
-  "link":"USA SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-121272.m3u8?auth_key=1669766974-0-0-4f3afbaad5e3f007049ae098c02a05a6"
+  "link":"france SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669840294-0-0-1b4c797c58b7639149977622d038e74a"
 },
      {
-  "link":"USA HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-121272_ld.m3u8?auth_key=1669766974-0-0-6cb0b3d8b1c66210809b91543dc9b264"
+  "link":"france HD 1",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669840294-0-0-b4c69169c4c0d214f7b96a316bc140d4"
 },
     {
-  "link":"ENGLAND SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669766914-0-0-3d86140040b2291347bf9368a04221b7"
+  "link":"Denmark SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1669840354-0-0-10d49693537ebd1c20994ebd142bd163"
 },
      {
-  "link":"ENGLAND HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669766914-0-0-5cb05cada8a022341a88f60fa95663d9"
+  "link":"Denmark HD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669840354-0-0-79d2e3d911f685f3ec6f2d39b8a94b40"
 },
         {
-  "link":"England FHD",
-    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+  "link":"Denmark FHD",
+    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
 },
     
         {
-  "link":"USA FHD",
+  "link":"FRANCE FHD",
     "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 }
 ]
