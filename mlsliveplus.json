@@ -18,28 +18,28 @@
      "freee":"yes",
   "live": [
       {
-  "link":"Poland SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1669850374-0-0-ca7d9da24b4b0055775c31a7ed374d5a"
+  "link":"Canada SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1669925734-0-0-2225d7cde046cf3d26b45ef96970bb90"
 },
      {
-  "link":"Poland HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669850374-0-0-bd43d30d456e63718f980269b2f650be"
+  "link":"Canada HD 1",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669925734-0-0-d46bad0b20963fb76bc1af3662fb04d0"
 },
     {
-  "link":"Mexico SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1669840354-0-0-10d49693537ebd1c20994ebd142bd163"
+  "link":"Croatia SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669925674-0-0-5a209e163755ff8a795f2bf1a7ecb734"
 },
      {
-  "link":"Mecico HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669840354-0-0-79d2e3d911f685f3ec6f2d39b8a94b40"
+  "link":"Croatia HD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669925674-0-0-0b154b1578ff5270ce11e2b83fa58039"
 },
         {
-  "link":"Poland FHD",
-    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+  "link":"Canada FHD",
+    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
 },
     
         {
-  "link":"Mexico FHD",
+  "link":"Croatia FHD",
     "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 }
 ]
