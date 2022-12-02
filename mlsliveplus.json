@@ -19,28 +19,28 @@
   "live": [
       {
   "link":"Portugal SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669941574-0-0-c03e28c991102b1767acc210edaa59fd"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1670012314-0-0-85e57333a04fe001086e8f23ea351e36"
 },
      {
   "link":"Portugal HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669941574-0-0-22f28eb9b7c3632d2c623a490f1fb523"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1670012314-0-0-863b756e050738cb4327e2e5613a5efa"
 },
     {
   "link":"Uruguay SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1669941694-0-0-cef62e0575efd41c5e5456048571ae0e"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-118582_ld.m3u8?auth_key=1670012435-0-0-045808b9484fc2b503d9ab4f1562b71e"
 },
      {
   "link":"Uruguay HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669941694-0-0-0ce265141fa78154282cc96e942dee31"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1670012435-0-0-f3e9053c5f2cd460263f728c0d202e9a"
 },
         {
   "link":"Portugal FHD",
-    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 },
     
         {
   "link":"Uruguay FHD",
-    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
 }
 ]
   
