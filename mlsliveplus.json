@@ -1,6 +1,6 @@
 {
-  "date":"Dec 1",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/11/SPAIN-VS-JAPAN-scaled.jpg",
+  "date":"Dec 2",
+    "matchimg":"https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-11/nba-canada--270bbe10-f9ea-448e-80f3-e08a5c9fbb71.jpeg?itok=t4kCVm9f",
     "time":"9:30 PM",
   
   
@@ -18,28 +18,28 @@
      "freee":"yes",
   "live": [
       {
-  "link":"Japan SD",
+  "link":"Portugal SD",
     "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669941574-0-0-c03e28c991102b1767acc210edaa59fd"
 },
      {
-  "link":"Japan HD 1",
+  "link":"Portugal HD 1",
     "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669941574-0-0-22f28eb9b7c3632d2c623a490f1fb523"
 },
     {
-  "link":"Germany SD",
+  "link":"Uruguay SD",
     "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1669941694-0-0-cef62e0575efd41c5e5456048571ae0e"
 },
      {
-  "link":"Germany HD",
+  "link":"Uruguay HD",
     "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669941694-0-0-0ce265141fa78154282cc96e942dee31"
 },
         {
-  "link":"Japan FHD",
+  "link":"Portugal FHD",
     "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 },
     
         {
-  "link":"Germany FHD",
+  "link":"Uruguay FHD",
     "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 }
 ]
