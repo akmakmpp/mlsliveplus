@@ -1,7 +1,7 @@
 {
-  "date":"Dec 2",
-    "matchimg":"https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-11/nba-canada--270bbe10-f9ea-448e-80f3-e08a5c9fbb71.jpeg?itok=t4kCVm9f",
-    "time":"9:30 PM",
+  "date":"Dec 3",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/12/world-cup-preview-lead-pic-Cameroon-vs-Brazil.jpg",
+    "time":"1:30 AM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -18,29 +18,29 @@
      "freee":"yes",
   "live": [
       {
-  "link":"Portugal SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1670012314-0-0-85e57333a04fe001086e8f23ea351e36"
+  "link":"Brazil SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1670026234-0-0-1105e03b16cf890b652604ee3e6a2d52"
 },
      {
-  "link":"Portugal HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1670012314-0-0-863b756e050738cb4327e2e5613a5efa"
+  "link":"Brazil HD 1",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1670026234-0-0-c1a80890ab3ad763a1f10551258009b5"
 },
     {
-  "link":"Uruguay SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-118582_ld.m3u8?auth_key=1670012435-0-0-045808b9484fc2b503d9ab4f1562b71e"
+  "link":"Serbia SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1670027495-0-0-99f9c181f331a9ce247312391e9fcd23"
 },
      {
-  "link":"Uruguay HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1670012435-0-0-f3e9053c5f2cd460263f728c0d202e9a"
+  "link":"Serbia HD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1670027495-0-0-ed9b842573f61419d4425cb778505302"
 },
         {
-  "link":"Portugal FHD",
+  "link":"Serbia FHD",
     "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 },
     
         {
-  "link":"Uruguay FHD",
-    "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
+  "link":"Brazil FHD",
+    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 }
 ]
   
