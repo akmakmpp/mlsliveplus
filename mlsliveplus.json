@@ -18,23 +18,16 @@
      "freee":"yes",
   "live": [
       {
-  "link":"Brazil SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1670026234-0-0-1105e03b16cf890b652604ee3e6a2d52"
+  "link":" SD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1670100515-0-0-191a75f50c945b84e36a5cfd1afa1a7f"
 },
      {
-  "link":"Brazil HD 1",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1670026234-0-0-c1a80890ab3ad763a1f10551258009b5"
+  "link":"HD",
+    "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1670100515-0-0-c352b5969cdf809be1773ed67a53a443"
 },
-    {
-  "link":"Serbia SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1670027495-0-0-99f9c181f331a9ce247312391e9fcd23"
-},
-     {
-  "link":"Serbia HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1670027495-0-0-ed9b842573f61419d4425cb778505302"
-},
+  
         {
-  "link":"Serbia FHD",
+  "link":"FHD",
     "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
 }
 ]
