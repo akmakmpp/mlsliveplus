@@ -1,7 +1,7 @@
 {
   "date":"Dec 3",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/12/world-cup-preview-lead-pic-Netherlands-vs-usa.jpg",
-    "time":"9:30 PM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/12/Argentina-vs-Australia-world-cup-preview-lead-pic.jpg",
+    "time":"1:30 AM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -19,16 +19,16 @@
   "live": [
       {
   "link":" SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1670100515-0-0-191a75f50c945b84e36a5cfd1afa1a7f"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1670113895-0-0-3a7eddaae19e4277d6456f4567b2d801"
 },
      {
   "link":"HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1670100515-0-0-c352b5969cdf809be1773ed67a53a443"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1670113895-0-0-85eb6e38846e664a3308846fb9d1b82c"
 },
   
         {
   "link":"FHD",
-    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 }
 ]
   
