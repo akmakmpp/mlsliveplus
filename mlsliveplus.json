@@ -1,7 +1,7 @@
 {
   "date":"Dec 3",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/12/world-cup-preview-lead-pic-Cameroon-vs-Brazil.jpg",
-    "time":"1:30 AM",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/12/world-cup-preview-lead-pic-Netherlands-vs-usa.jpg",
+    "time":"9:30 PM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/11/4.gif",
@@ -36,11 +36,6 @@
         {
   "link":"Serbia FHD",
     "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-},
-    
-        {
-  "link":"Brazil FHD",
-    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 }
 ]
   
