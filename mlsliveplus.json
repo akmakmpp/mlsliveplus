@@ -1,7 +1,7 @@
 {
-  "date":"Dec 5",
-    "matchimg":"https://assets.khelnow.com/news/uploads/2022/12/JAPAN-VS-CROATIA-scaled.jpg",
-    "time":"9:30 PM",
+  "date":"Dec 6",
+    "matchimg":"https://assets.khelnow.com/news/uploads/2022/12/KOREA-VS-BRAZIL-scaled.jpg",
+    "time":"1:30 AM",
   
   
   "img":"https://3photos6.files.wordpress.com/2022/12/4.gif",
@@ -19,16 +19,16 @@
   "live": [
       {
   "link":" SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1670277755-0-0-82ebd354c6d0e9b60a74fd3fec5b5596"
+    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
 },
      {
   "link":"HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1670277755-0-0-95cb74522d5d9fc175c0861382dae75a"
+    "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8"
 },
   
         {
   "link":"FHD",
-    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+    "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
 }
 ]
   
