@@ -19,11 +19,11 @@
   "live": [
       {
   "link":" SD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1670617835-0-0-9d3999528ffa9c990cf5183eb2015610"
+    "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=72953dd93caad0741cd1991090a9ac24&txTime=6393adab"
 },
      {
   "link":"HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1670617835-0-0-16c022499f1486315fcb372dbb57d741"
+    "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=72953dd93caad0741cd1991090a9ac24&txTime=6393adab"
 },
   
         {
