@@ -17,13 +17,17 @@
   
      "freee":"yes",
   "live": [
+        {
+  "link":"FHD",
+    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
       {
   "link":" SD",
-    "livelink":"https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=4647c268b640f11fec14045d41166422&txTime=63963180"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1670978316-0-0-f91a24f239d8cfbcf01b6e5372d726e3"
 },
      {
   "link":"HD",
-    "livelink":"https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=4647c268b640f11fec14045d41166422&txTime=63963180"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1670978316-0-0-81fefe47cb0bd3405597f6e22d802740"
 }
 ]
   
