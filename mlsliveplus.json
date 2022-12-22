@@ -18,16 +18,20 @@
      "freee":"yes",
   "live": [
         {
-  "link":"FHD",
-    "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
+  "link":"Soco HD",
+    "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=9048051f1312b6d20a9c70c0463785cb&txTime=63a50931"
 },
       {
-  "link":" SD",
-    "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=a5fb0d215f049d7958c75590bfd65d63&txTime=639f7561"
+  "link":"HD",
+    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+      {
+  "link":"China SD",
+    "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1671759906-0-0-db42697426aed0cc454094ce9bc28c91"
 },
      {
-  "link":"HD",
-    "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+  "link":"China HD",
+    "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1671759906-0-0-9df7423dbb7d4dd0d4e5734be7985911"
 }
 ]
   
