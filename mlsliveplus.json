@@ -27,11 +27,11 @@
 },
       {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1671759906-0-0-db42697426aed0cc454094ce9bc28c91"
+    "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=f7f661804d796b806bb890c01e78f6ff&txTime=63ab23a8"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1671759906-0-0-9df7423dbb7d4dd0d4e5734be7985911"
+    "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=38d0788d6aa8d625d9268b3413064170&txTime=63ab236c"
 }
 ]
   
