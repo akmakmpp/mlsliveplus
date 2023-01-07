@@ -19,19 +19,19 @@
   "live": [
         {
   "link":"Soco HD",
-    "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=bd8ea329f391b88d8038048e1cc8ba83&txTime=63b364bb"
+    "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=cacedde5e471445d4206837130984eb7&txTime=63ba2109"
 },
       {
   "link":"HD",
-    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+    "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
       {
   "link":"China SD",
-    "livelink":"https://yypull.gdsth.com/live/stream-288414_ld.m3u8?auth_key=1672701790-0-0-2b92fa2ae856f21675de71b971e043c8"
+    "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673142611-0-0-8048135cfbcbdeeb4cb54abb3f26c32a"
 },
      {
   "link":"China HD",
-    "livelink":"https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1672701790-0-0-2e41e544652ba18676ca729a1e30e99e"
+    "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1673142611-0-0-3ce490ef73d7f36e83526280a2a35c80"
 }
 ]
   
