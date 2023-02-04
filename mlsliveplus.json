@@ -18,11 +18,15 @@
      "freee":"yes",
   "live": [
         {
-  "link":"Soco HD",
+  "link":"Vebo SD",
     "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
 },
       {
   "link":"HD",
+    "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+},
+      {
+  "link":"Soco HD",
     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 }
 ]
