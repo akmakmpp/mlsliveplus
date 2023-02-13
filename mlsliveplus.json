@@ -19,7 +19,11 @@
   "live": [
         {
   "link":"Vebo SD",
-    "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+},
+      {
+  "link":"China SD",
+    "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1676339138-0-0-e4aa5a8f5a4ddcfb379f51592178cc27"
 },
       {
   "link":"HD",
