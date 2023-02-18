@@ -18,6 +18,10 @@
      "freee":"yes",
   "live": [
         {
+  "link":"ENGLISH SD",
+    "livelink":"https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+        {
   "link":"Vebo SD",
     "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
