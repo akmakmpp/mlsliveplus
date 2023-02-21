@@ -18,8 +18,8 @@
      "freee":"yes",
   "live": [
         {
-  "link":"ENGLISH SD",
-    "livelink":"https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+  "link":"Vebo HD",
+    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
         {
   "link":"Vebo SD",
@@ -27,15 +27,15 @@
 },
       {
   "link":"China SD",
-    "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=bb6c4dadaaa2781934a8da4787859026&auth_key=1676761605-0-0-270ec2c96e85403ef5741be5b52c655f"
+    "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677029919-0-0-82184626959a27e1ea01ec441a333dcd&user_session_id=2b77d506cab71092a1407b5e101d8a71"
 },
       {
-  "link":"HD",
-    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+  "link":"China HD",
+    "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=29efb30831702137bfa3e3123ee988b0&auth_key=1677029919-0-0-636c9f25bfbae12545fd35d6da465f5e"
 },
       {
   "link":"Soco HD",
-    "livelink":"https://sports01.livnvess.com/live/stream-167414.flv?txSecret=654d0cdb445b1416b3761ff2d7d25672&txTime=63f15b4e"
+    "livelink":"https://pullalilive.livnvess.com/live/stream-123226.flv?auth_key=1677030314-0-0-e718c78ac398a9690c97df33f2973249"
 }
 ]
   
