@@ -27,15 +27,15 @@
 },
       {
   "link":"China SD",
-    "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677029919-0-0-82184626959a27e1ea01ec441a333dcd&user_session_id=2b77d506cab71092a1407b5e101d8a71"
+    "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1677375476-0-0-186151f255c77e49afea446d7db8a910&sub_m3u8=true&user_session_id=d4911539085c24f531f8137205b3324f&edge_slice=true"
 },
       {
   "link":"China HD",
-    "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=29efb30831702137bfa3e3123ee988b0&auth_key=1677029919-0-0-636c9f25bfbae12545fd35d6da465f5e"
+    "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677375476-0-0-3d5b62d45c0cebf7c545e3160ba32c9f&user_session_id=149feda4cfa8013a220843379235036c"
 },
       {
   "link":"Soco HD",
-    "livelink":"https://pullalilive.livnvess.com/live/stream-123226.flv?auth_key=1677030314-0-0-e718c78ac398a9690c97df33f2973249"
+    "livelink":"https://sports01.livnvess.com/live/stream-201986.flv?txSecret=e4e580e9e9a465fd5961422ad4fb4b44&txTime=63fab78f"
 }
 ]
   
