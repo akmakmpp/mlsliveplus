@@ -24,23 +24,23 @@
   "live": [
         {
   "link":"Vebo HD",
-    "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
         {
   "link":"Vebo SD",
-    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
       {
-  "link":"China SD",
-    "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?edge_slice=true&user_session_id=9b3522feaf2ff2e690b5b69b5951f24e&auth_key=1678053597-0-0-93cd1baf6bf33eeb870071e30c9c70fe&sub_m3u8=true"
+  "link":"Soco SD",
+    "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-139384_lhd.m3u8?edge_slice=true&auth_key=1678558036-0-0-2e9f0c3e0003759497221ddd8d1692ac&user_session_id=f4ab5aa9e947f86f9ecb7202c8fad8dd&sub_m3u8=true"
 },
       {
   "link":"China HD",
-    "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?auth_key=1678053597-0-0-93cd1baf6bf33eeb870071e30c9c70fe&sub_m3u8=true&edge_slice=true&user_session_id=92d0e30d24b7f1580c6b25db0ae39a2f"
+    "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1678557898-0-0-46bfe4daf327cdad2a0c02fb3e15fdd3&sub_m3u8=true&user_session_id=5636633a0a4f820477fe182fa7594c19&edge_slice=true"
 },
       {
   "link":"Soco HD",
-    "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=64de7828326c8b09d66b87544ead4482&txTime=6405103c"
+    "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-139384_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678558036-0-0-2e9f0c3e0003759497221ddd8d1692ac&user_session_id=70736d2cbe7723bcd4bfce6063dc025a"
 }
 ]
   
