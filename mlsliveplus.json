@@ -25,20 +25,20 @@
   "live": [
         {
   "link":"Vebo HD",
-    "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+    "livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
 },
         {
   "link":"Vebo SD",
-    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u88"
+    "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8"
 },
       {
   "link":"Soco SD",
-    "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-250874_lhd.m3u8?sub_m3u8=true&auth_key=1684611577-0-0-d43493ca09b34d75bba3b99321c96f3e&user_session_id=a250d525be2eabf8d07ac9411875a886&edge_slice=true"
+    "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&user_session_id=a6302ba9741f81698693eb7117927198&edge_slice=true&auth_key=1685308358-0-0-e2791c04412342bed44fa1fe24069977"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991125_lhd.m3u8?sub_m3u8=true&auth_key=1684611577-0-0-decb3d079f746e02b869eea488b1f345&user_session_id=c3d0079256d8b5170c2f8898fafeffc2&edge_slice=true"
+    "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685308358-0-0-e2791c04412342bed44fa1fe24069977&sub_m3u8=true&edge_slice=true&user_session_id=6866b2e50b8f74975dc36ffcb62709f3"
 }
 ]
   
