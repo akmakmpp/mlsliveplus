@@ -25,22 +25,22 @@
   "live": [
         {
   "link":"SD",
-    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+    "livelink":"https://obevcimanyd179314182.thapcam.link/live/soiSD/chunklist.m3u8"
 },
   
    
       {
   "link":"Vebo HD",
-    "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+    "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
 },
       {
   "link":"Soco HD",
-    "livelink":"https://pull01.rrwes.live/live/stream-144861_lhd.flv?txSecret=0841cbe8a859822a96eba274cf81622b&txTime=64ca8eb9"
+    "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911952_lhd.m3u8?auth_key=1691432909-0-0-e19d39deca4e95b868d09ae0ef6ac543&sub_m3u8=true&edge_slice=true&user_session_id=06c84f6d4f020f4a81efb254b8c609f0"
 },
    
       {
   "link":"FHD",
-    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+    "livelink":"https://obevcimanyd179314182.thapcam.link/live/soiFHD/chunklist.m3u8"
 }
 ]
   
