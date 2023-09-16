@@ -35,12 +35,12 @@
 },
       {
   "link":"Soco HD",
-    "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912033_lhd.m3u8?user_session_id=d33b1c0e961ef176df3a465633458acd&auth_key=1693748192-0-0-e7510635ea8a6b59809e7dc74f4df57a&edge_slice=true&sub_m3u8=true"
+    "livelink":"https://pull.niues.live/live/stream-201313_lhd.m3u8?auth_key=1694865522-0-0-e1a4c285cbc5731836ad82422034e0a7"
 },
    
       {
   "link":"FHD",
-    "livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
+    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
 }
 ]
   
