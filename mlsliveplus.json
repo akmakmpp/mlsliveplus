@@ -25,7 +25,7 @@
   "live": [
         {
   "link":"SD",
-    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+    "livelink":"https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695316120-0-0-529fb021e1edb87b49fd852ff663aefc"
 },
   
    
@@ -35,12 +35,12 @@
 },
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-201313_lhd.m3u8?auth_key=1694865522-0-0-e1a4c285cbc5731836ad82422034e0a7"
+    "livelink":"https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695316120-0-0-529fb021e1edb87b49fd852ff663aefc"
 },
    
       {
   "link":"FHD",
-    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
+    "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
   
