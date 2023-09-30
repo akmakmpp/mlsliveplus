@@ -25,14 +25,18 @@
   "live": [
         {
   "link":"SD",
-    "livelink":"https://pull01.rrwes.live/live/stream-379816_lhd.flv?txSecret=368a226ca4f83be473ee3c3633659aae&txTime=6514ac5d"
+    "livelink":"https://pull01.rrwes.live/live/stream-9912059_lhd.flv?txSecret=947c6e9dbe8c6ad775d674f1232ebfa4&txTime=65189705"
+},
+         {
+  "link":"Vebo HD",
+    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
   
    
    
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1695835901-0-0-ced46866a5b59198c06bf859885f1e2d"
+    "livelink":"https://pull01.rrwes.live/live/stream-9912041_lhd.flv?txSecret=761e693f584afe45b07b700c01411e52&txTime=651896c9"
 }
 ]
   
