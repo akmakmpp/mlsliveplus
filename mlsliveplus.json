@@ -1,8 +1,8 @@
 
 {
-  "date":"Oct 8",
-    "matchimg":"https://static.standard.co.uk/2021/08/17/09/PLHow2WatchBrightonLiverpool.jpg?width=1200&auto=webp&quality=75",
-    "time":"7:30 ‌PM",
+  "date":"Oct 21",
+    "matchimg":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.as.com%2Fsoccer%2Fliverpool-vs-everton-times-how-to-watch-on-tv-stream-online-premier-league-n%2F&psig=AOvVaw2aypC2AuEWQAE1-JadpWok&ust=1697971717942000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjK4dv7hoIDFQAAAAAdAAAAABAD",
+    "time":"6:00 ‌PM",
   
   
   "img":"https://raw.githubusercontent.com/fotlivemm123/fotlive/main/405-x-900-8%25-bonus.gif",
@@ -25,17 +25,17 @@
   "live": [
         {
   "link":"SD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=a2075929477254b7db47f7a978a5e1a7&txTime=6522f372"
+    "livelink":"https://pull.niues.live/live/stream-9912042_lsd.m3u8?auth_key=1697888023-0-0-b1c95180032655a7589c849deea3d484"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=a2075929477254b7db47f7a978a5e1a7&txTime=6522f372"
+    "livelink":"https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1697888023-0-0-250767be3470945f87703c1dc2575bb5"
 },
       
       {
-  "link":"Vebo HD",
-    "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+  "link":"English HD",
+    "livelink":"https://sportsleading.online/live/stream_1.m3u8"
 }
 ]
   
