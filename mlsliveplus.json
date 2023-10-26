@@ -25,18 +25,15 @@
   "live": [
         {
   "link":"SD",
-    "livelink":"https://pull.niues.live/live/stream-9912042_lsd.m3u8?auth_key=1697888023-0-0-b1c95180032655a7589c849deea3d484"
+    "livelink":"https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1698332864-0-0-d639dad408337a7ba608933172626b55"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1697888023-0-0-250767be3470945f87703c1dc2575bb5"
+    "livelink":"https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1698332864-0-0-179b552d56f749000444c882bba28dc6"
 },
       
-      {
-  "link":"English HD",
-    "livelink":"https://sportsleading.online/live/stream_1.m3u8"
-}
+    
 ]
   
   
