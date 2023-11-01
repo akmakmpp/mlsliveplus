@@ -25,12 +25,17 @@
   "live": [
         {
   "link":"SD",
-    "livelink":"https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1698590204-0-0-3c9472fb30b872f9a7ad2b5c31d29dd2"
+    "livelink":"https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=1177415e793c51298a0fd9ed35f83a49&txTime=6542b22c"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-379816_lhd.m3u8?auth_key=1698590324-0-0-479b1a40f81df1cadc03044c757034cb"
+    "livelink":"https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=b480a6be7a03e1fc02b2d715983f835b&txTime=6542b22c"
+},
+      
+      {
+  "link":"Soco HD 2",
+    "livelink":"https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1698851864-0-0-8773500c3dcda2c00e286bc63b0bce60"
 }
       
     
