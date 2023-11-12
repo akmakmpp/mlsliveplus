@@ -24,13 +24,18 @@
      "freee":"yes",
   "live": [
         {
-  "link":"China SD",
-    "livelink":"https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1699553265-0-0-a7b284bd4a963dfbe0cc66a0657b678c"
+  "link":"SOCO SD",
+    "livelink":"https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1699798546-0-0-3c6a78854cc5e36c1bd36204700a0d50"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1699553265-0-0-a7b284bd4a963dfbe0cc66a0657b678c"
+    "livelink":"https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1699798546-0-0-84382f2b8ca8e8c1f2db13eba5a6d197"
+},
+      
+      {
+  "link":"CHINA",
+    "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&user_session_id=6b4026e14ed9910d6826403816f3ce48&edge_slice=true&auth_key=1699798697-0-0-c241fb1af1e6839d29cb80fa358352ae"
 }
       
     
