@@ -25,17 +25,17 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1699798546-0-0-3c6a78854cc5e36c1bd36204700a0d50"
+    "livelink":"https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1700916587-0-0-c68416010882d8826e8c42eeb3df03ee"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1699798546-0-0-84382f2b8ca8e8c1f2db13eba5a6d197"
+    "livelink":"https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1700916587-0-0-576134e0a0160ae8035f5752b74224dd"
 },
       
       {
   "link":"CHINA",
-    "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&user_session_id=6b4026e14ed9910d6826403816f3ce48&edge_slice=true&auth_key=1699798697-0-0-c241fb1af1e6839d29cb80fa358352ae"
+    "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1700916798-1700916798-1700916798- 996d4321e&edge_slice=true&sub_m3u8=true&user_session_id=d7a4fc4ad57a811443af42ffacc67fd5"
 }
       
     
