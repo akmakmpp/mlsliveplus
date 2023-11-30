@@ -25,17 +25,12 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1700916587-0-0-c68416010882d8826e8c42eeb3df03ee"
+    "livelink":"https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1701363348-0-0-fbfd11a81bda1dbffdcf8e5291a6039d"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1700916587-0-0-576134e0a0160ae8035f5752b74224dd"
-},
-      
-      {
-  "link":"CHINA",
-    "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1700916798-1700916798-1700916798- 996d4321e&edge_slice=true&sub_m3u8=true&user_session_id=d7a4fc4ad57a811443af42ffacc67fd5"
+    "livelink":"https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1701363348-0-0-ffafb0533142fc824555ebabf48054be"
 }
       
     
