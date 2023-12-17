@@ -25,17 +25,17 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1702569649-0-0-f14dd1ab847c1765259528be2c97b25e"
+    "livelink":"https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=e4db5209d6257df80d53f066a15fa761&txTime=657f70f9"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1702569649-0-0-b16602d8aa69f8361ed1c86c8972bf02"
+    "livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=9730622d0bbb4510a75328a5028fe1a9&txTime=657f70f9"
 },
       
       {
-  "link":"China HD",
-    "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_uqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_e0esss3u8 a71ab8 4a160314cf &auth_key=1702569904-0-0-d2d347675262abe4eace7bcc96608eaf"
+  "link":"English HD",
+    "livelink":"https://soccer.freesportstime.com/live/stream_1.m3u8"
 }
       
     
