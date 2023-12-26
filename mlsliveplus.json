@@ -25,21 +25,16 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1703354090-0-0-75cb52ac3261259e37f8cff740f783c9"
+    "livelink":"https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1703614130-0-0-38ea213a70aaa032d3ef01e072be5d27"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1703354090-0-0-b986e2baeb451f0f26a1357556fdefb3"
+    "livelink":"https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1703614130-0-0-e186f21710649a254dca435aebf8eaee"
 },
             {
   "link":"English HD 1",
-    "livelink":"https://headlinessportsfoot.com/chunklist/hlsch5.m3u8"
-},
-      
-      {
-  "link":"English HD 2",
-    "livelink":"https://hls.streambtw.com/live/stream_1.m3u8"
+    "livelink":"https://soccer.freesportstime.com/live/stream_1.m3u8"
 }
     
 ]
