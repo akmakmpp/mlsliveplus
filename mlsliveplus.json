@@ -1,8 +1,8 @@
 
 {
-  "date":"Jan 21",
-    "matchimg":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltfda6f9aaee5b8415/640a0b07ae37ba766ee9dd3a/murcia_(39).png",
-    "time":"11:00 ‌PM",
+  "date":"Jan 25",
+    "matchimg":"https://e0.365dm.com/24/01/2048x1152/skysports-fulham-liverpool_6431588.jpg?20240124103732",
+    "time":"02:30 ‌AM",
   
   
   "img":"https://raw.githubusercontent.com/fotlivemm123/fotlive/main/405-x-900-8%25-bonus.gif",
@@ -25,16 +25,16 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912086_lsd.m3u8?txSecret=aed874b6de909a0972fa0e8fdf73a209&txTime=65ad96a9"
+    "livelink":"https://pull01.rrwes.live/live/stream-9912086_lsd.m3u8?txSecret=dedb9e6c96f4151de0f4d4d34a323e7e&txTime=65b19105"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=c25ab328923a46e589ae382f39858b4c&txTime=65ad96a9"
+    "livelink":"https://pull01.rrwes.live/live/stream-9912086_lhd.m3u8?txSecret=b4873c3799427c68428aeed555036f03&txTime=65b19105"
 },
             {
   "link":"English HD 1",
-    "livelink":"https://soccer.freesportstime.com/live/stream_1.m3u8"
+    "livelink":"https://hls.streambtw.com/live/stream_1.m3u8"
 }
     
 ]
