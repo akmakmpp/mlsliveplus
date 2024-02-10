@@ -25,16 +25,16 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912060_lsd.m3u8?txSecret=28ae4841a1ff708e7be14675f007712a&txTime=65c00b40"
+    "livelink":"https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1707579609-0-0-b7e132b2888a77a081c2f59be4c94f4a"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=8cfea2ef0c77dc3583a67cf0ad600212&txTime=65c00b40"
+    "livelink":"https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1707579609-0-0-06050a42e13d9d98aa6cef6986c156b9"
 },
             {
   "link":"English HD 1",
-    "livelink":"https://hls.streambtw.com/live/stream_3.m3u8"
+    "livelink":"https://hls.streambtw.com/live/stream_1.m3u8"
 }
     
 ]
