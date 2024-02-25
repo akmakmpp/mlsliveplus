@@ -25,16 +25,16 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1708537390-0-0-2a824de442e1a624ffa25591ec4d1e49"
+    "livelink":"https://pull01.rrwes.live/live/stream-9912075_lsd.m3u8?txSecret=627e5214f0a194a66a397c8557bc5d7c&txTime=65dba38e"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1708537390-0-0-4c33019cdc49dbda8e75d81bf071bfea"
+    "livelink":"https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=3c4e863fa2a2995a0c1a6a9c03e259a7&txTime=65dba38e"
 },
             {
   "link":"English HD 1",
-    "livelink":"https://hls.streambtw.com/live/stream_3.m3u8"
+    "livelink":"https://ovosssss.lol/live/n-2/chunks.m3u8"
 }
     
 ]
