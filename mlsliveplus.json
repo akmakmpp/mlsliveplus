@@ -1,8 +1,8 @@
 
 {
-  "date":"Feb 25",
-    "matchimg":"https://static.standard.co.uk/2022/02/14/14/EFLChelseaLiverpoolv1.jpg",
-    "time":"9:30 ‌PM",
+  "date":"Feb 29",
+    "matchimg":"https://mrfixitstips.co.uk/wp-content/uploads/2024/02/MRF2024_Liverpool-v-Southampton-1038x584.jpg",
+    "time":"2:30 ‌AM",
   
   
   "img":"https://raw.githubusercontent.com/fotlivemm123/fotlive/main/405-x-900-8%25-bonus.gif",
@@ -25,16 +25,12 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912075_lsd.m3u8?txSecret=627e5214f0a194a66a397c8557bc5d7c&txTime=65dba38e"
+    "livelink":"https://pull01.rrwes.live/live/stream-9911977_lsd.m3u8?txSecret=c5ae5949325fcbe1eea15cc970066967&txTime=65dfa697"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912075_lhd.m3u8?txSecret=3c4e863fa2a2995a0c1a6a9c03e259a7&txTime=65dba38e"
-},
-            {
-  "link":"English HD 1",
-    "livelink":"https://ovosssss.lol/live/n-2/chunks.m3u8"
+    "livelink":"https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=49ad45087d6b56baa4997605a6f20613&txTime=65dfa697"
 }
     
 ]
