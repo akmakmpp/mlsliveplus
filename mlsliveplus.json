@@ -25,17 +25,12 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=f7b12f4a068636b68997b1b3a7d9bdd8&txTime=65e38b9f"
+    "livelink":"https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=f47ed51207acf7e1913f8020aacf08e3&txTime=65ea4b66"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=f5950e4796b3ae76c6e9f119c7f83cd5&txTime=65e38b9f"
-},
-      
-      {
-  "link":"English HD",
-    "livelink":"https://ovosssssssss.lol/live/n-2/chunks.m3u8"
+    "livelink":"https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=6da93918a135c839569e9861611dcce1&txTime=65ea4b66"
 }
     
 ]
