@@ -1,8 +1,8 @@
 
 {
-  "date":"Mar 15",
-    "matchimg":"https://images.daznservices.com/di/library/DAZN_News/9b/aa/liverpool-vs-sparta-prague_1r8bp0w99fust1f7yekiuf4i79.jpg",
-    "time":"2:30 ‌AM",
+  "date":"Mar 17",
+    "matchimg":"https://cdn.mos.cms.futurecdn.net/hL8GUJGKDWDuVEZS3SU67h.jpg",
+    "time":"10:00 ‌PM",
   
   
   "img":"https://raw.githubusercontent.com/fotlivemm123/fotlive/main/405-x-900-8%25-bonus.gif",
@@ -25,12 +25,12 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull.niur.live/live/stream-9912080_lsd.m3u8?txSecret=333f1b3dbc7b03052b301675cf2db96b&txTime=65f3748f"
+    "livelink":"https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1710690784-0-0-741bc8ac43a25f7e1f5a21d19c5df219"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niur.live/live/stream-9912080_lhd.m3u8?txSecret=c3410bad63865c5a2929de8ca630538a&txTime=65f3748f"
+    "livelink":"https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1710690784-0-0-9630078b5552b94f4b2f4df16768e35d"
 }
     
 ]
