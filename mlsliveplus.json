@@ -25,12 +25,12 @@
   "live": [
         {
   "link":"SOCO SD",
-    "livelink":"https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1710690784-0-0-741bc8ac43a25f7e1f5a21d19c5df219"
+    "livelink":"https://pull.niur.live/live/stream-9912085_lsd.m3u8?txSecret=e2009c9eb0a0d9d1efaa29f967045d1b&txTime=6609ab75"
 },
       
       {
   "link":"Soco HD",
-    "livelink":"https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1710690784-0-0-9630078b5552b94f4b2f4df16768e35d"
+    "livelink":"https://pull.niur.live/live/stream-9912085_lhd.m3u8?txSecret=356254588ac520c5b579e82e18584c46&txTime=6609ab75"
 }
     
 ]
